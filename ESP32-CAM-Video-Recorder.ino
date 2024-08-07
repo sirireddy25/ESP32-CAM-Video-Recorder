@@ -969,12 +969,12 @@ void loop() {
   
   /*
   dav.handleClient();
+  */
   
   if (!streamClient.connected() && streamTaskHandle != NULL) {
     vTaskDelete(streamTaskHandle);
     streamTaskHandle = NULL;
   }
-  */
   
   if (startRecording && !isRecording) {
     isRecording = true;
