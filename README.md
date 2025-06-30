@@ -12,10 +12,3 @@ This project turns an ESP32-CAM into a simple video recorder that can be control
 - Wi-Fi connectivity for easy access
 - SD card storage for recordings
 
-
-
-
-## Demo
-
-https://github.com/user-attachments/assets/5373d087-4f16-44da-8c27-cbaf9381489e
-
